@@ -1,0 +1,37 @@
+D:\ISKOLA\UNIVERSITATE\Semestrul II\Geometrie\art galery problem\ArtGalleryProblem\ArtGalleryProblem\bin\Debug\ArtGalleryProblem.exe
+D:\ISKOLA\UNIVERSITATE\Semestrul II\Geometrie\art galery problem\ArtGalleryProblem\ArtGalleryProblem\bin\Debug\ArtGalleryProblem.pdb
+D:\ISKOLA\UNIVERSITATE\Semestrul II\Geometrie\art galery problem\ArtGalleryProblem\ArtGalleryProblem\obj\Debug\ArtGalleryProblem.csprojResolveAssemblyReference.cache
+D:\ISKOLA\UNIVERSITATE\Semestrul II\Geometrie\art galery problem\ArtGalleryProblem\ArtGalleryProblem\obj\Debug\ArtGalleryProblem.AboutBox.resources
+D:\ISKOLA\UNIVERSITATE\Semestrul II\Geometrie\art galery problem\ArtGalleryProblem\ArtGalleryProblem\obj\Debug\ArtGalleryProblem.Form1.resources
+D:\ISKOLA\UNIVERSITATE\Semestrul II\Geometrie\art galery problem\ArtGalleryProblem\ArtGalleryProblem\obj\Debug\ArtGalleryProblem.Properties.Resources.resources
+D:\ISKOLA\UNIVERSITATE\Semestrul II\Geometrie\art galery problem\ArtGalleryProblem\ArtGalleryProblem\obj\Debug\ArtGalleryProblem.csproj.GenerateResource.cache
+D:\ISKOLA\UNIVERSITATE\Semestrul II\Geometrie\art galery problem\ArtGalleryProblem\ArtGalleryProblem\obj\Debug\ArtGalleryProblem.csproj.CoreCompileInputs.cache
+D:\ISKOLA\UNIVERSITATE\Semestrul II\Geometrie\art galery problem\ArtGalleryProblem\ArtGalleryProblem\obj\Debug\ArtGalleryProblem.exe
+D:\ISKOLA\UNIVERSITATE\Semestrul II\Geometrie\art galery problem\ArtGalleryProblem\ArtGalleryProblem\obj\Debug\ArtGalleryProblem.pdb
+D:\ISKOLA\UNIVERSITATE\Semestrul II\Geometrie\art galery problem\Proba 2\ArtGalleryProblem\ArtGalleryProblem\bin\Debug\ArtGalleryProblem.exe
+D:\ISKOLA\UNIVERSITATE\Semestrul II\Geometrie\art galery problem\Proba 2\ArtGalleryProblem\ArtGalleryProblem\bin\Debug\ArtGalleryProblem.pdb
+D:\ISKOLA\UNIVERSITATE\Semestrul II\Geometrie\art galery problem\Proba 2\ArtGalleryProblem\ArtGalleryProblem\obj\Debug\ArtGalleryProblem.csprojResolveAssemblyReference.cache
+D:\ISKOLA\UNIVERSITATE\Semestrul II\Geometrie\art galery problem\Proba 2\ArtGalleryProblem\ArtGalleryProblem\obj\Debug\ArtGalleryProblem.Form1.resources
+D:\ISKOLA\UNIVERSITATE\Semestrul II\Geometrie\art galery problem\Proba 2\ArtGalleryProblem\ArtGalleryProblem\obj\Debug\ArtGalleryProblem.Properties.Resources.resources
+D:\ISKOLA\UNIVERSITATE\Semestrul II\Geometrie\art galery problem\Proba 2\ArtGalleryProblem\ArtGalleryProblem\obj\Debug\ArtGalleryProblem.csproj.GenerateResource.cache
+D:\ISKOLA\UNIVERSITATE\Semestrul II\Geometrie\art galery problem\Proba 2\ArtGalleryProblem\ArtGalleryProblem\obj\Debug\ArtGalleryProblem.csproj.CoreCompileInputs.cache
+D:\ISKOLA\UNIVERSITATE\Semestrul II\Geometrie\art galery problem\Proba 2\ArtGalleryProblem\ArtGalleryProblem\obj\Debug\ArtGalleryProblem.exe
+D:\ISKOLA\UNIVERSITATE\Semestrul II\Geometrie\art galery problem\Proba 2\ArtGalleryProblem\ArtGalleryProblem\obj\Debug\ArtGalleryProblem.pdb
+D:\ISKOLA\UNIVERSITATE\Semestrul II\Geometrie\art galery problem\Proba 3\ArtGalleryProblem\ArtGalleryProblem\bin\Debug\ArtGalleryProblem.exe
+D:\ISKOLA\UNIVERSITATE\Semestrul II\Geometrie\art galery problem\Proba 3\ArtGalleryProblem\ArtGalleryProblem\bin\Debug\ArtGalleryProblem.pdb
+D:\ISKOLA\UNIVERSITATE\Semestrul II\Geometrie\art galery problem\Proba 3\ArtGalleryProblem\ArtGalleryProblem\obj\Debug\ArtGalleryProblem.csprojResolveAssemblyReference.cache
+D:\ISKOLA\UNIVERSITATE\Semestrul II\Geometrie\art galery problem\Proba 3\ArtGalleryProblem\ArtGalleryProblem\obj\Debug\ArtGalleryProblem.Form1.resources
+D:\ISKOLA\UNIVERSITATE\Semestrul II\Geometrie\art galery problem\Proba 3\ArtGalleryProblem\ArtGalleryProblem\obj\Debug\ArtGalleryProblem.Properties.Resources.resources
+D:\ISKOLA\UNIVERSITATE\Semestrul II\Geometrie\art galery problem\Proba 3\ArtGalleryProblem\ArtGalleryProblem\obj\Debug\ArtGalleryProblem.csproj.GenerateResource.cache
+D:\ISKOLA\UNIVERSITATE\Semestrul II\Geometrie\art galery problem\Proba 3\ArtGalleryProblem\ArtGalleryProblem\obj\Debug\ArtGalleryProblem.csproj.CoreCompileInputs.cache
+D:\ISKOLA\UNIVERSITATE\Semestrul II\Geometrie\art galery problem\Proba 3\ArtGalleryProblem\ArtGalleryProblem\obj\Debug\ArtGalleryProblem.exe
+D:\ISKOLA\UNIVERSITATE\Semestrul II\Geometrie\art galery problem\Proba 3\ArtGalleryProblem\ArtGalleryProblem\obj\Debug\ArtGalleryProblem.pdb
+D:\ISKOLA\UNIVERSITATE\Semestrul II\Geometrie\art galery problem\Proba 4\ArtGalleryProblem\ArtGalleryProblem\bin\Debug\Problemagaleriilordearta.exe
+D:\ISKOLA\UNIVERSITATE\Semestrul II\Geometrie\art galery problem\Proba 4\ArtGalleryProblem\ArtGalleryProblem\bin\Debug\Problemagaleriilordearta.pdb
+D:\ISKOLA\UNIVERSITATE\Semestrul II\Geometrie\art galery problem\Proba 4\ArtGalleryProblem\ArtGalleryProblem\obj\Debug\ArtGalleryProblem.csprojResolveAssemblyReference.cache
+D:\ISKOLA\UNIVERSITATE\Semestrul II\Geometrie\art galery problem\Proba 4\ArtGalleryProblem\ArtGalleryProblem\obj\Debug\Problemagaleriilordearta.Form1.resources
+D:\ISKOLA\UNIVERSITATE\Semestrul II\Geometrie\art galery problem\Proba 4\ArtGalleryProblem\ArtGalleryProblem\obj\Debug\Problemagaleriilordearta.Properties.Resources.resources
+D:\ISKOLA\UNIVERSITATE\Semestrul II\Geometrie\art galery problem\Proba 4\ArtGalleryProblem\ArtGalleryProblem\obj\Debug\ArtGalleryProblem.csproj.GenerateResource.cache
+D:\ISKOLA\UNIVERSITATE\Semestrul II\Geometrie\art galery problem\Proba 4\ArtGalleryProblem\ArtGalleryProblem\obj\Debug\ArtGalleryProblem.csproj.CoreCompileInputs.cache
+D:\ISKOLA\UNIVERSITATE\Semestrul II\Geometrie\art galery problem\Proba 4\ArtGalleryProblem\ArtGalleryProblem\obj\Debug\Problemagaleriilordearta.exe
+D:\ISKOLA\UNIVERSITATE\Semestrul II\Geometrie\art galery problem\Proba 4\ArtGalleryProblem\ArtGalleryProblem\obj\Debug\Problemagaleriilordearta.pdb

@@ -1,0 +1,59 @@
+D:\ISKOLA\UNIVERSITATE\Semestrul II\Geometrie\art galery problem\Proba 4\ArtGalleryProblem\ArtGalleryProblem\bin\Debug\Problemagaleriilordearta.exe.config
+D:\ISKOLA\UNIVERSITATE\Semestrul II\Geometrie\art galery problem\Proba 4\ArtGalleryProblem\ArtGalleryProblem\bin\Debug\Problemagaleriilordearta.exe
+D:\ISKOLA\UNIVERSITATE\Semestrul II\Geometrie\art galery problem\Proba 4\ArtGalleryProblem\ArtGalleryProblem\bin\Debug\Problemagaleriilordearta.pdb
+D:\ISKOLA\UNIVERSITATE\Semestrul II\Geometrie\art galery problem\Proba 4\ArtGalleryProblem\ArtGalleryProblem\obj\Debug\Problemagaleriilordearta.csprojResolveAssemblyReference.cache
+D:\ISKOLA\UNIVERSITATE\Semestrul II\Geometrie\art galery problem\Proba 4\ArtGalleryProblem\ArtGalleryProblem\obj\Debug\Problemagaleriilordearta.Form1.resources
+D:\ISKOLA\UNIVERSITATE\Semestrul II\Geometrie\art galery problem\Proba 4\ArtGalleryProblem\ArtGalleryProblem\obj\Debug\Problemagaleriilordearta.Properties.Resources.resources
+D:\ISKOLA\UNIVERSITATE\Semestrul II\Geometrie\art galery problem\Proba 4\ArtGalleryProblem\ArtGalleryProblem\obj\Debug\Problemagaleriilordearta.csproj.GenerateResource.cache
+D:\ISKOLA\UNIVERSITATE\Semestrul II\Geometrie\art galery problem\Proba 4\ArtGalleryProblem\ArtGalleryProblem\obj\Debug\Problemagaleriilordearta.csproj.CoreCompileInputs.cache
+D:\ISKOLA\UNIVERSITATE\Semestrul II\Geometrie\art galery problem\Proba 4\ArtGalleryProblem\ArtGalleryProblem\obj\Debug\Problemagaleriilordearta.exe
+D:\ISKOLA\UNIVERSITATE\Semestrul II\Geometrie\art galery problem\Proba 4\ArtGalleryProblem\ArtGalleryProblem\obj\Debug\Problemagaleriilordearta.pdb
+D:\ISKOLA\UNIVERSITATE\Semestrul II\Geometrie\art galery problem\Proba 5\Problemagaleriilordearta\Problemagaleriilordearta\bin\Debug\Problemagaleriilordearta.exe.config
+D:\ISKOLA\UNIVERSITATE\Semestrul II\Geometrie\art galery problem\Proba 5\Problemagaleriilordearta\Problemagaleriilordearta\bin\Debug\Problemagaleriilordearta.exe
+D:\ISKOLA\UNIVERSITATE\Semestrul II\Geometrie\art galery problem\Proba 5\Problemagaleriilordearta\Problemagaleriilordearta\bin\Debug\Problemagaleriilordearta.pdb
+D:\ISKOLA\UNIVERSITATE\Semestrul II\Geometrie\art galery problem\Proba 5\Problemagaleriilordearta\Problemagaleriilordearta\obj\Debug\Problemagaleriilordearta.csprojResolveAssemblyReference.cache
+D:\ISKOLA\UNIVERSITATE\Semestrul II\Geometrie\art galery problem\Proba 5\Problemagaleriilordearta\Problemagaleriilordearta\obj\Debug\Problemagaleriilordearta.Form1.resources
+D:\ISKOLA\UNIVERSITATE\Semestrul II\Geometrie\art galery problem\Proba 5\Problemagaleriilordearta\Problemagaleriilordearta\obj\Debug\Problemagaleriilordearta.Properties.Resources.resources
+D:\ISKOLA\UNIVERSITATE\Semestrul II\Geometrie\art galery problem\Proba 5\Problemagaleriilordearta\Problemagaleriilordearta\obj\Debug\Problemagaleriilordearta.csproj.GenerateResource.cache
+D:\ISKOLA\UNIVERSITATE\Semestrul II\Geometrie\art galery problem\Proba 5\Problemagaleriilordearta\Problemagaleriilordearta\obj\Debug\Problemagaleriilordearta.csproj.CoreCompileInputs.cache
+D:\ISKOLA\UNIVERSITATE\Semestrul II\Geometrie\art galery problem\Proba 5\Problemagaleriilordearta\Problemagaleriilordearta\obj\Debug\Problemagaleriilordearta.exe
+D:\ISKOLA\UNIVERSITATE\Semestrul II\Geometrie\art galery problem\Proba 5\Problemagaleriilordearta\Problemagaleriilordearta\obj\Debug\Problemagaleriilordearta.pdb
+D:\ISKOLA\UNIVERSITATE\Semestrul II\Geometrie\Problemagaleriilordearta\Problemagaleriilordearta\bin\Debug\Problemagaleriilordearta.exe.config
+D:\ISKOLA\UNIVERSITATE\Semestrul II\Geometrie\Problemagaleriilordearta\Problemagaleriilordearta\bin\Debug\Problemagaleriilordearta.exe
+D:\ISKOLA\UNIVERSITATE\Semestrul II\Geometrie\Problemagaleriilordearta\Problemagaleriilordearta\bin\Debug\Problemagaleriilordearta.pdb
+D:\ISKOLA\UNIVERSITATE\Semestrul II\Geometrie\Problemagaleriilordearta\Problemagaleriilordearta\obj\Debug\Problemagaleriilordearta.csprojResolveAssemblyReference.cache
+D:\ISKOLA\UNIVERSITATE\Semestrul II\Geometrie\Problemagaleriilordearta\Problemagaleriilordearta\obj\Debug\Problemagaleriilordearta.Form1.resources
+D:\ISKOLA\UNIVERSITATE\Semestrul II\Geometrie\Problemagaleriilordearta\Problemagaleriilordearta\obj\Debug\Problemagaleriilordearta.Properties.Resources.resources
+D:\ISKOLA\UNIVERSITATE\Semestrul II\Geometrie\Problemagaleriilordearta\Problemagaleriilordearta\obj\Debug\Problemagaleriilordearta.csproj.GenerateResource.cache
+D:\ISKOLA\UNIVERSITATE\Semestrul II\Geometrie\Problemagaleriilordearta\Problemagaleriilordearta\obj\Debug\Problemagaleriilordearta.csproj.CoreCompileInputs.cache
+D:\ISKOLA\UNIVERSITATE\Semestrul II\Geometrie\Problemagaleriilordearta\Problemagaleriilordearta\obj\Debug\Problemagaleriilordearta.exe
+D:\ISKOLA\UNIVERSITATE\Semestrul II\Geometrie\Problemagaleriilordearta\Problemagaleriilordearta\obj\Debug\Problemagaleriilordearta.pdb
+D:\ISKOLA\UNIVERSITATE\Semestrul II\Geometrie\Problemagaleriilordearta - Copy\Problemagaleriilordearta\bin\Debug\Problemagaleriilordearta.exe.config
+D:\ISKOLA\UNIVERSITATE\Semestrul II\Geometrie\Problemagaleriilordearta - Copy\Problemagaleriilordearta\bin\Debug\Problemagaleriilordearta.exe
+D:\ISKOLA\UNIVERSITATE\Semestrul II\Geometrie\Problemagaleriilordearta - Copy\Problemagaleriilordearta\bin\Debug\Problemagaleriilordearta.pdb
+D:\ISKOLA\UNIVERSITATE\Semestrul II\Geometrie\Problemagaleriilordearta - Copy\Problemagaleriilordearta\obj\Debug\Problemagaleriilordearta.csprojResolveAssemblyReference.cache
+D:\ISKOLA\UNIVERSITATE\Semestrul II\Geometrie\Problemagaleriilordearta - Copy\Problemagaleriilordearta\obj\Debug\Problemagaleriilordearta.Form1.resources
+D:\ISKOLA\UNIVERSITATE\Semestrul II\Geometrie\Problemagaleriilordearta - Copy\Problemagaleriilordearta\obj\Debug\Problemagaleriilordearta.Properties.Resources.resources
+D:\ISKOLA\UNIVERSITATE\Semestrul II\Geometrie\Problemagaleriilordearta - Copy\Problemagaleriilordearta\obj\Debug\Problemagaleriilordearta.csproj.GenerateResource.cache
+D:\ISKOLA\UNIVERSITATE\Semestrul II\Geometrie\Problemagaleriilordearta - Copy\Problemagaleriilordearta\obj\Debug\Problemagaleriilordearta.csproj.CoreCompileInputs.cache
+D:\ISKOLA\UNIVERSITATE\Semestrul II\Geometrie\Problemagaleriilordearta - Copy\Problemagaleriilordearta\obj\Debug\Problemagaleriilordearta.exe
+D:\ISKOLA\UNIVERSITATE\Semestrul II\Geometrie\Problemagaleriilordearta - Copy\Problemagaleriilordearta\obj\Debug\Problemagaleriilordearta.pdb
+D:\ISKOLA\UNIVERSITATE\Semestrul II\Geometrie\Problemagaleriilordearta V2\Problemagaleriilordearta\bin\Debug\Problemagaleriilordearta.exe.config
+D:\ISKOLA\UNIVERSITATE\Semestrul II\Geometrie\Problemagaleriilordearta V2\Problemagaleriilordearta\bin\Debug\Problemagaleriilordearta.exe
+D:\ISKOLA\UNIVERSITATE\Semestrul II\Geometrie\Problemagaleriilordearta V2\Problemagaleriilordearta\bin\Debug\Problemagaleriilordearta.pdb
+D:\ISKOLA\UNIVERSITATE\Semestrul II\Geometrie\Problemagaleriilordearta V2\Problemagaleriilordearta\obj\Debug\Problemagaleriilordearta.csprojResolveAssemblyReference.cache
+D:\ISKOLA\UNIVERSITATE\Semestrul II\Geometrie\Problemagaleriilordearta V2\Problemagaleriilordearta\obj\Debug\Problemagaleriilordearta.Form1.resources
+D:\ISKOLA\UNIVERSITATE\Semestrul II\Geometrie\Problemagaleriilordearta V2\Problemagaleriilordearta\obj\Debug\Problemagaleriilordearta.Properties.Resources.resources
+D:\ISKOLA\UNIVERSITATE\Semestrul II\Geometrie\Problemagaleriilordearta V2\Problemagaleriilordearta\obj\Debug\Problemagaleriilordearta.csproj.GenerateResource.cache
+D:\ISKOLA\UNIVERSITATE\Semestrul II\Geometrie\Problemagaleriilordearta V2\Problemagaleriilordearta\obj\Debug\Problemagaleriilordearta.csproj.CoreCompileInputs.cache
+D:\ISKOLA\UNIVERSITATE\Semestrul II\Geometrie\Problemagaleriilordearta V2\Problemagaleriilordearta\obj\Debug\Problemagaleriilordearta.exe
+D:\ISKOLA\UNIVERSITATE\Semestrul II\Geometrie\Problemagaleriilordearta V2\Problemagaleriilordearta\obj\Debug\Problemagaleriilordearta.pdb
+C:\Users\Shadow Blade\Desktop\Problemagaleriilordearta bun\Problemagaleriilordearta\bin\Debug\Problemagaleriilordearta.exe.config
+C:\Users\Shadow Blade\Desktop\Problemagaleriilordearta bun\Problemagaleriilordearta\bin\Debug\Problemagaleriilordearta.exe
+C:\Users\Shadow Blade\Desktop\Problemagaleriilordearta bun\Problemagaleriilordearta\bin\Debug\Problemagaleriilordearta.pdb
+C:\Users\Shadow Blade\Desktop\Problemagaleriilordearta bun\Problemagaleriilordearta\obj\Debug\Problemagaleriilordearta.csprojAssemblyReference.cache
+C:\Users\Shadow Blade\Desktop\Problemagaleriilordearta bun\Problemagaleriilordearta\obj\Debug\Problemagaleriilordearta.Form1.resources
+C:\Users\Shadow Blade\Desktop\Problemagaleriilordearta bun\Problemagaleriilordearta\obj\Debug\Problemagaleriilordearta.Properties.Resources.resources
+C:\Users\Shadow Blade\Desktop\Problemagaleriilordearta bun\Problemagaleriilordearta\obj\Debug\Problemagaleriilordearta.csproj.GenerateResource.cache
+C:\Users\Shadow Blade\Desktop\Problemagaleriilordearta bun\Problemagaleriilordearta\obj\Debug\Problemagaleriilordearta.exe
+C:\Users\Shadow Blade\Desktop\Problemagaleriilordearta bun\Problemagaleriilordearta\obj\Debug\Problemagaleriilordearta.pdb
